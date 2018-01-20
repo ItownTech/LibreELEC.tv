@@ -61,6 +61,8 @@
   # kernel image name
     KERNEL_NAME="kernel.img"
 
+  # additional kernel dependencies
+    KERNEL_EXTRA_DEPENDS_TARGET="aml-s9xx-device-trees"
 
 ################################################################################
 # setup build defaults
